@@ -43,5 +43,5 @@ If you want support me, you can donate on my patreon [tip](https://www.patreon.c
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iLobosok&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLobosok)](https://github.com/anuraghazra/github-readme-stats)
  
-💌 Write me letter on email [newsletter](mailto:ilobosoki@gmail.com)
+💌 Write me a letter on email [newsletter](mailto:ilobosoki@gmail.com)
 
