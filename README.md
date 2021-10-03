@@ -25,7 +25,7 @@ SOFTWARE.
 
 ### Hi there 👋
 
-# [![iLobosok](https://i.imgur.com/rHkNGuX.png)](https://imgur.com/)
+# [![iLobosok](https://i.imgur.com/BSpZowE.png)](https://imgur.com/)
 
 
 <p align='center'>
