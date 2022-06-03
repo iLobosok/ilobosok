@@ -25,7 +25,7 @@ SOFTWARE.
 
 ### Hi there 👋
 
-# [![iLobosok](https://i.imgur.com/NQPnjjL.png)](https://imgur.com/)
+## Junior Flutter Developer
 
 
 <p align='center'>
