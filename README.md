@@ -28,12 +28,6 @@ SOFTWARE.
 ## Junior Flutter Developer
 
 
-<p align='center'>
-<a href="https://instagram.com/giordinos"><img height="30" src="https://github.com/iLobosok/ilobosok/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.patreon.com/ilobosoki"><img height="30" src="https://github.com/iLobosok/ilobosok/blob/main/icon/patreon-logo-art-wikimedia-commons-film-png-favpng-5b0msBXkV8xH4nZziNPgH7aS0_t.jpg?raw=true"></a>
-<a href="https://www.linkedin.com/in/ivan-lobosok-4993161bb/"><img height="30" src="https://github.com/iLobosok/ilobosok/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
 Hey there 👋,
 
 I create a personal apps for use. My favorite hobby is Robotics. In my repositories you can find as mobile apps and arduino projects. 
