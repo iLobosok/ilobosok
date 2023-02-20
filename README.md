@@ -25,7 +25,7 @@ SOFTWARE.
 
 ### Hi there 👋
 
-## Junior Flutter Developer
+## Flutter Developer
 
 
 Hey there 👋,
